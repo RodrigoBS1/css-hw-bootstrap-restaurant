@@ -8,7 +8,7 @@
 
 ## Assignment
 Redo the **Huynh Restaurant** site (2-3) pages using bootstrap. 
-The [original site is here](http://huynhrestauranthouston.com/cgi-bin/p/awtp-home.cgi?d=huynh-restaurant)
+The [original site is here](https://huynhrestauranthouston.com/)
 
 
 Alternatively, you can find a different restaurant site which needs updating, and update 2-3 pages of the site using bootstrap.
