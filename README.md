@@ -2,8 +2,7 @@
 # Restaurant Page in Bootstrap 
 
 ## Getting Started 
-- Clone this directory by running the following command inside of your terminal: 
-    - `git clone https://github.com/DigitalCraftsStudents/css-hw-bootstrap-restaurant-page.git` 
+- Clone this repository
 - On your terminal command line, navigate into the cloned directory: 
     - `cd css-hw-bootstrap-restaurant-page`
 
