@@ -1,0 +1,20 @@
+img {
+    width: 280px;
+    height: 250px;
+}
+
+body {
+    display: grid;
+    align-items: center;
+    justify-content: center;
+}
+
+.row {
+    justify-content: center;
+    align-items: center;
+}
+
+.carousel {
+    align-items: center;
+    justify-content: center;
+}
